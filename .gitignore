@@ -1,0 +1,15 @@
+# Maven output
+/target/
+
+# IntelliJ / Eclipse
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+
+# Test reports
+/test-output/
+/screenshots/
