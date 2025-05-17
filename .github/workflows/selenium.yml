@@ -23,5 +23,5 @@ jobs:
     - name: Set up Chrome
       uses: browser-actions/setup-chrome@latest
 
-    - name: Build with Maven
+    - name: Test with Maven
       run: mvn clean install
